@@ -7,6 +7,8 @@ Obviously, if you had newer features and/or products that weren't supported on t
 
 I wrote this for myself to make it easier to downgrade projects.  If it works for you great.
 
+***  You can’t have Source Code protected Routines, protected Add-On Instructions or Programs for any programs  >= V36.  (It can’t downgrade the mnemonics to pre V36).
+
 T Mack
 "# Studio-5000-Downgrade-Utility-by-Todd" 
 "# Studio-5000-Downgrade-Utility-by-Todd" 
